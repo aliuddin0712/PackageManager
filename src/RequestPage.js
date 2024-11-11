@@ -66,7 +66,6 @@ const RequestPage = () => {
     'Product Installer': [
       { name: 'productTag', label: 'Product Tag', required: true },
       { name: 'productVersion', label: 'Product Version', required: true },
-      { name: 'productPreviousVersion', label: 'Product Previous Version', required: true },
       { name: 'productBranch', label: 'Product Branch', required: true },
       { name: 'productMasterPRNumber', label: 'Product Master PR Number', required: true },
       { name: 'productRepo', label: 'Product Repo', required: true }
